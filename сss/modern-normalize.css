@@ -310,3 +310,15 @@ Add the correct display in Chrome and Safari.
 summary {
   display: list-item;
 }
+:root {
+  --page-bg-color: #f9f9fd;
+  --primary-text-color: #212121;
+  --card-set-gap: 15px;
+  --card-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
