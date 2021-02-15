@@ -79,7 +79,7 @@ font-weight: 500;
 font-size: 14px;
 line-height: 1.142;
 letter-spacing: 0.02em;
-color: #2196F3;
+color: #757575; 
 margin-right: 50px;
 }
 .about-list{
@@ -98,7 +98,8 @@ margin-right: 50px;
 }
 
 .tel-link:hover,
-.tel-link:focus{
+.tel-link:focus,
+.imel link{
 color: #2196F3;
 }
 
