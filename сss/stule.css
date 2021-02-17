@@ -46,6 +46,7 @@ color: #212121;
     align-items: center ;
     padding-top: 24px;
     padding-bottom: 25px;
+    border-bottom: 1px solid #EEEEEE;
    
 }
 
@@ -377,6 +378,7 @@ color: #757575;
 
 .border{
     padding: 20px 24px;
+    border: 1px solid #EEEEEE;
 
 
 
